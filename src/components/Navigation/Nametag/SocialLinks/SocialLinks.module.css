@@ -1,0 +1,17 @@
+.icons li a img{
+    width: 2vw;
+    height: 2vw;
+}
+
+.icons{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 2vw;
+}
+
+.icons li{
+    float:left;
+    margin-left: 10px;
+    height: auto;
+}

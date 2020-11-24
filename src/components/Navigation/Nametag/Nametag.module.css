@@ -1,0 +1,9 @@
+.nametag_profile img{
+    width: 12vw;
+    height: 12vw;
+    border-radius: 50%;
+}
+
+.Nametag {
+    display: block;
+}
