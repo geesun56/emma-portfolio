@@ -1,0 +1,24 @@
+.Button{
+    padding: 0;
+    margin: 0;
+
+    width: 11vw;
+    height: 2.5vw;
+    border: 1px cadetblue solid;
+    text-align: center;
+    color: white;
+    background-color: cadetblue;
+}
+
+.Button p{
+    padding:0;
+    margin: 0;
+    font-size: 1.2vw;
+    display:inline-block
+}
+
+.Button svg{
+    height: 1.2em;
+    width: 1.2em;
+    padding-top: 0.5em;
+}

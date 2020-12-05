@@ -1,0 +1,30 @@
+.content{
+    width: 41vw;
+    height: 23vw;
+    padding: 0;
+    margin-right: 3vw;
+    display: inline-block;
+    float: left;
+    
+}
+
+.facePhoto{
+    width: 29vw;
+    height: 21vw;
+    
+}
+/* 82vw is total width of introduction pane */
+.Namecard{
+    padding: 4vw 4vw 4vw 4vw;
+    background-color: #f2f2f2;
+    font-size: 1vw;
+}
+
+.NamecardButtons div{
+    display: inline-block;
+    margin: 1vh 0 0 1vw;
+}
+
+.NamecardButtons div:first-child{
+    margin-right: 2vw;
+}

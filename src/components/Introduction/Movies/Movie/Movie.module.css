@@ -1,0 +1,42 @@
+.Movie{
+   display: block;
+   width: 11vw;
+   height: 15vw;
+   position: relative;
+}
+
+
+.MoviePoster{
+    width: 100%;
+    height: 100%;
+    box-shadow: 0px 0px 15px ;
+    position: relative;
+    top:0;
+    left:0;
+}
+
+.MovieTitle{
+    visibility: hidden;
+    margin:0;
+    padding:0;
+    text-align: center;
+    width: 100%;
+    color: darkred;
+    font-size: 1.2vw;
+    position: absolute;
+    top:7vw;
+
+}
+
+
+.Movie:hover .MovieTitle{
+    visibility: visible;
+    opacity: 1;
+
+}
+
+.Movie:hover .MoviePoster{
+    opacity: 0.3;
+    transition-duration: 0.5s;
+}
+

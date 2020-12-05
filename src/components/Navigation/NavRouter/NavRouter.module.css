@@ -1,9 +1,17 @@
  .Navlist{
     list-style-type: none;
-
-    
+    margin: 2vh 0 0 0;
+    padding-left: 3vw;
  }
  
+ .Navline{
+    height: 2vh;
+    width: 15vw;
+    margin: 0 1.5vw 0 1.5vw;
+    padding: 0;
+    border-bottom: 1px solid rgb(204, 190, 190);
+ }
  .Navlist li{
-    margin-bottom: 1%;
+   margin-top: 2vh;
+   font-size: 1.2vw;
  }

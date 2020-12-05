@@ -1,0 +1,12 @@
+.intro_pane{
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 18vw;
+  
+  width: 82vw;
+  height: 100%;
+
+overflow-y: scroll;
+  
+}

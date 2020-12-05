@@ -1,6 +1,6 @@
 .icons li a img{
-    width: 2vw;
-    height: 2vw;
+    width: 1.5vw;
+    height: 1.5vw;
 }
 
 .icons{
@@ -8,10 +8,13 @@
     margin: 0;
     padding: 0;
     height: 2vw;
+    width: 100%;
+    margin-top: 3vh;
+    
 }
 
 .icons li{
     float:left;
-    margin-left: 10px;
+    margin-left: 1.75vw;
     height: auto;
 }

@@ -1,0 +1,10 @@
+/* Grid width 74 vw */
+
+.MovieGrid{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: grid;
+    grid-column-gap: 4.6vw;
+    grid-row-gap: 4.6vw;
+    grid-template-columns: auto auto auto auto auto;
+}
