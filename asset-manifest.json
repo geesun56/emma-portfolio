@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/geesun56/emma-portfolio/static/css/main.7f170525.chunk.css",
-    "main.js": "/geesun56/emma-portfolio/static/js/main.1e611a59.chunk.js",
-    "main.js.map": "/geesun56/emma-portfolio/static/js/main.1e611a59.chunk.js.map",
-    "runtime-main.js": "/geesun56/emma-portfolio/static/js/runtime-main.c1d70eea.js",
-    "runtime-main.js.map": "/geesun56/emma-portfolio/static/js/runtime-main.c1d70eea.js.map",
-    "static/js/2.04e07a20.chunk.js": "/geesun56/emma-portfolio/static/js/2.04e07a20.chunk.js",
-    "static/js/2.04e07a20.chunk.js.map": "/geesun56/emma-portfolio/static/js/2.04e07a20.chunk.js.map",
-    "static/js/3.cb6041ba.chunk.js": "/geesun56/emma-portfolio/static/js/3.cb6041ba.chunk.js",
-    "static/js/3.cb6041ba.chunk.js.map": "/geesun56/emma-portfolio/static/js/3.cb6041ba.chunk.js.map",
-    "index.html": "/geesun56/emma-portfolio/index.html",
-    "static/css/main.7f170525.chunk.css.map": "/geesun56/emma-portfolio/static/css/main.7f170525.chunk.css.map",
-    "static/js/2.04e07a20.chunk.js.LICENSE.txt": "/geesun56/emma-portfolio/static/js/2.04e07a20.chunk.js.LICENSE.txt"
+    "main.css": "/emma-portfolio/static/css/main.7f170525.chunk.css",
+    "main.js": "/emma-portfolio/static/js/main.44cb42bd.chunk.js",
+    "main.js.map": "/emma-portfolio/static/js/main.44cb42bd.chunk.js.map",
+    "runtime-main.js": "/emma-portfolio/static/js/runtime-main.e4e8a668.js",
+    "runtime-main.js.map": "/emma-portfolio/static/js/runtime-main.e4e8a668.js.map",
+    "static/js/2.4db48e1a.chunk.js": "/emma-portfolio/static/js/2.4db48e1a.chunk.js",
+    "static/js/2.4db48e1a.chunk.js.map": "/emma-portfolio/static/js/2.4db48e1a.chunk.js.map",
+    "static/js/3.cb6041ba.chunk.js": "/emma-portfolio/static/js/3.cb6041ba.chunk.js",
+    "static/js/3.cb6041ba.chunk.js.map": "/emma-portfolio/static/js/3.cb6041ba.chunk.js.map",
+    "index.html": "/emma-portfolio/index.html",
+    "static/css/main.7f170525.chunk.css.map": "/emma-portfolio/static/css/main.7f170525.chunk.css.map",
+    "static/js/2.4db48e1a.chunk.js.LICENSE.txt": "/emma-portfolio/static/js/2.4db48e1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1d70eea.js",
-    "static/js/2.04e07a20.chunk.js",
+    "static/js/runtime-main.e4e8a668.js",
+    "static/js/2.4db48e1a.chunk.js",
     "static/css/main.7f170525.chunk.css",
-    "static/js/main.1e611a59.chunk.js"
+    "static/js/main.44cb42bd.chunk.js"
   ]
 }
